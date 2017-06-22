@@ -1,0 +1,82 @@
+# Translation of Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-02 17:04:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: convert-post-types.php:163
+msgid "Could not convert post #%d. %s"
+msgstr "Could not convert post #%d. %s"
+
+#: convert-post-types.php:66
+msgid "Convert to..."
+msgstr "Convert to..."
+
+#. #-#-#-#-#  tmp-convert-post-types.pot (Convert Post Types 1.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: convert-post-types.php:15 convert-post-types.php:43
+msgid "Convert Post Types"
+msgstr "Convert Post Types"
+
+#: convert-post-types.php:61
+msgid "Convert from..."
+msgstr "Convert from..."
+
+#: convert-post-types.php:115
+msgid "Convert &raquo;"
+msgstr "Convert &raquo;"
+
+#: convert-post-types.php:77
+msgid "Assign custom taxonomy terms"
+msgstr "Assign custom taxonomy terms"
+
+#. Description of the plugin/theme
+msgid "A bulk conversion utility for post types."
+msgstr "A bulk conversion utility for post types."
+
+#: convert-post-types.php:44
+msgid "With great power comes great responsibility. This process could <strong>really</strong> screw up your database. Please <a href=\"http://www.ilfilosofo.com/blog/wp-db-backup\">make a backup</a> before proceeding."
+msgstr "With great power comes great responsibility. This process could <strong>really</strong> screw up your database. Please <a href=\"http://www.ilfilosofo.com/blog/wp-db-backup\">make a backup</a> before proceeding."
+
+#: convert-post-types.php:163
+msgid "The new post type was not valid."
+msgstr "The new post type was not valid."
+
+#. Author of the plugin/theme
+msgid "Stephanie Leary"
+msgstr "Stephanie Leary"
+
+#: convert-post-types.php:202 convert-post-types.php:208
+#: convert-post-types.php:210
+msgid "Set %s to %s"
+msgstr "Set %s to %s"
+
+#: convert-post-types.php:214
+msgid "Posts converted."
+msgstr "Posts converted."
+
+#. Plugin URI of the plugin/theme
+msgid "http://stephanieleary.com/plugins/convert-post-types"
+msgstr "http://stephanieleary.com/plugins/convert-post-types"
+
+#. Author URI of the plugin/theme
+msgid "http://stephanieleary.com"
+msgstr "http://stephanieleary.com"
+
+#: convert-post-types.php:129
+msgid "Could not convert posts. One of the post types was not set."
+msgstr "Could not convert posts. One of the post types was not set."
+
+#: convert-post-types.php:133
+msgid "Could not convert posts. One of the selected post types does not exist."
+msgstr "Could not convert posts. One of the selected post types does not exist."
+
+#: convert-post-types.php:152
+msgid "Could not find any posts matching your criteria."
+msgstr "Could not find any posts matching your criteria."
